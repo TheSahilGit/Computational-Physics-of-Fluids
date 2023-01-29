@@ -34,7 +34,6 @@ float f(float x){
 // Taylor expansion of log(1+x)
 float logox(float x, int n){
   float ss;
-  string invalid;
   int i;
 
   ss = 0;
